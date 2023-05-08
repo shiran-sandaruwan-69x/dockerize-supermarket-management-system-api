@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7a2c047-1371-4b39-ba8f-335555191600" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NvVyxgNDXkGE7lVsftBVaWwQFW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../dockerlize car rest system" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21806854" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration default="true" type="JetRunConfigurationType">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpringBootPOSAppInitializer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MySpringBootPOS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lk.ijse.spring.MySpringBootPOSAppInitializer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Spring Boot.MySpringBootPOSAppInitializer" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7a2c047-1371-4b39-ba8f-335555191600" name="Changes" comment="" />
+      <created>1680544804566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680544804566</updated>
+      <workItem from="1680544806831" duration="1265000" />
+      <workItem from="1680612440370" duration="2621000" />
+      <workItem from="1680619301554" duration="128000" />
+      <workItem from="1681113305882" duration="1130000" />
+      <workItem from="1681552825492" duration="7511000" />
+      <workItem from="1681564027603" duration="1213000" />
+      <workItem from="1681571059404" duration="6700000" />
+      <workItem from="1681578275763" duration="2750000" />
+      <workItem from="1681581203500" duration="1778000" />
+      <workItem from="1681620344271" duration="1263000" />
+      <workItem from="1681621654461" duration="669000" />
+      <workItem from="1681625531327" duration="2882000" />
+      <workItem from="1681668465916" duration="645000" />
+      <workItem from="1683305058078" duration="1853000" />
+      <workItem from="1683307043684" duration="2522000" />
+      <workItem from="1683353007934" duration="1625000" />
+      <workItem from="1683355968202" duration="2403000" />
+      <workItem from="1683360804342" duration="2082000" />
+      <workItem from="1683379986756" duration="1003000" />
+      <workItem from="1683385725930" duration="38000" />
+      <workItem from="1683474091982" duration="1242000" />
+      <workItem from="1683534899473" duration="148000" />
+      <workItem from="1683535077638" duration="354000" />
+      <workItem from="1683535784738" duration="218000" />
+      <workItem from="1683536419994" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Docker" timestamp="1683307159870">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Docker/0.0.1366.738@0.0.1366.738" timestamp="1683307159870" />
+    <state x="392" y="0" key="#Docker_Image" timestamp="1683308669828">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="392" y="0" key="#Docker_Image/0.0.1366.738@0.0.1366.738" timestamp="1683308669828" />
+    <state x="392" y="0" key="#Dockerfile" timestamp="1683307476067">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="392" y="0" key="#Dockerfile/0.0.1366.738@0.0.1366.738" timestamp="1683307476067" />
+    <state x="486" y="158" key="#Web_Browsers" timestamp="1683307605741">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="486" y="158" key="#Web_Browsers/0.0.1366.738@0.0.1366.738" timestamp="1683307605741" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1683305804402">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1683305804402" />
+    <state x="463" y="96" key="FileChooserDialogImpl" timestamp="1683354840476">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="96" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1683354840476" />
+    <state width="1323" height="262" key="GridCell.Tab.0.bottom" timestamp="1683535175747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="262" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1683535175747" />
+    <state width="1323" height="262" key="GridCell.Tab.0.center" timestamp="1683535175747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="262" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1683535175747" />
+    <state width="1323" height="262" key="GridCell.Tab.0.left" timestamp="1683535175747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="262" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1683535175747" />
+    <state width="1323" height="262" key="GridCell.Tab.0.right" timestamp="1683535175747">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="262" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1683535175747" />
+    <state width="1323" height="406" key="GridCell.Tab.1.bottom" timestamp="1683361602133">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="406" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1683361602133" />
+    <state width="1323" height="406" key="GridCell.Tab.1.center" timestamp="1683361602133">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="406" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1683361602133" />
+    <state width="1323" height="406" key="GridCell.Tab.1.left" timestamp="1683361602133">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="406" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1683361602133" />
+    <state width="1323" height="406" key="GridCell.Tab.1.right" timestamp="1683361602133">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="406" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1683361602133" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1683308994633">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1683308994633" />
+  </component>
+</project>
